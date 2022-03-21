@@ -1,0 +1,8 @@
+{
+  "name": "Fugon11 - Youtube Downloader",
+  "description": "Youtube Downloader.",
+  "image": "heroku/python",
+  "repository": "https://github.com/fugon11/youtube-downloader",
+  "keywords": ["python", "flask"],
+  "addons": []
+}
